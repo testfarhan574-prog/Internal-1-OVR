@@ -21,7 +21,7 @@
 
 <dependencies>
 
-    <!-- JUnit 5 A -->
+    <!-- JUnit 5 API -->
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter-api</artifactId>
